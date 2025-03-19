@@ -2,7 +2,7 @@
 
 This project analyzes a retail sales dataset, transforming raw transaction data into meaningful insights for business decision-making. The dataset includes customer demographics, product details, sales transactions, and financial metrics, allowing for a comprehensive exploration of sales performance across different locations, product categories, and time periods.
 
-https://public.tableau.com/app/profile/diana.perez.perez/viz/SALESINSIGHTS_Dashboard/OVERVIEWDASHBOARD
+![SalesInsightsDashboard](https://github.com/dianaip93/Sales_and_Profit_Insights_Project/blob/main/Tableau%20Dashboard.jpg)
 
 ### Insights:
 How can we maximize profitability while maintaining strong revenue growth?
@@ -33,3 +33,5 @@ This section showcases SQL queries used to uncover key business insights, such a
 
 ## Data Visualization:
 The interactive Tableau dashboard offers a comprehensive performance overview of revenue, cost, and sales trends across time, location, customer demographics, and product categories. Additionally, two deep-dive dashboards allow for a more detailed analysis of specific product categories and regional sales performance, enabling stakeholders to explore key trends and optimize business strategies. 
+
+[https://public.tableau.com/app/profile/diana.perez.perez/viz/SALESINSIGHTS_Dashboard/OVERVIEWDASHBOARD]
